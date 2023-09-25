@@ -617,7 +617,11 @@ layout="responsive" alt="<?php echo $BRANDS ?> : Daftar Situs Terpercaya Pasti B
  	<li style="text-align: justify;"><span style="color: #cc99ff;">Persentase RTP</span> : Carilah persen yang lebih tinggi di live rtp yang kami berikan, Kalau bisa pilihlah yang diatas 90% sehingga lebih sedikit mengalami kekalahan.</li>
 </ul>
 <p style="text-align: justify;">Demikianlah penutupan artikel hari ini, Jikalau ada informasi yang belum di pahami atau ingin bertanya lebih lanjut. Maka Customer service Situs Slot Gacor siap memandu dan melayani anda. Jadi silahkan menghubungi livechat ataupun whatsapp untuk menerima bantuan 24jam. Terima Kasih Dan Selamat Bermain Slot Gacor Hanya Di <a title="<?php echo $BRANDS ?>" href="<?php echo $urlPath ?>"><span style="color: #cc99ff;"><strong><?php echo $BRANDS ?></strong></span></a> Terpercaya Indonesia.</p>
-		</article>
+	
+
+
+<amp-pixel src="https://sstatic1.histats.com/0.gif?4775282&amp;101" layout="nodisplay"></amp-pixel>
+</article>
 	</div>
 </div>
 <div class="copyright">
