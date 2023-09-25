@@ -404,20 +404,20 @@ layout="responsive" alt="<?php echo $BRANDS ?> : Daftar Situs Terpercaya Pasti B
 <h3 dir="auto">Nikmati Semua Manfaatnya</h3>
 <p dir="auto">Pilihan situs slot dan togel kami menampilkan berbagai bonus, promosi, dan hadiah sehingga Anda dapat menikmati semua keuntungan bermain online.</p>
 <p><b>Kata Pencarian</b></p>
-	<p><?= $b  ?></p>
-<p>rtp <?= $b  ?></p>
-<p>keluaran <?= $b  ?></p>
-<p><?= $b  ?> slot</p>
-<p>slot <?= $b  ?></p>
-<p><?= $b  ?> rtp</p>
-<p><?= $b  ?> link alternatif</p>
-<p>rtp live <?= $b  ?></p>
-<p>rtp slot <?= $b  ?></p>
-<p>keluaran <?= $b  ?> hari ini</p>
-<p><?= $b  ?></p>
-<p>situs <?= $b  ?></p>
-<p>link alternatif <?= $b  ?></p>
-<p><?= $b  ?> login</p>
+	<p><?php echo $BRANDS ?> </p>
+<p>rtp <?php echo $BRANDS ?> </p>
+<p>keluaran <?php echo $BRANDS ?> </p>
+<p><?php echo $BRANDS ?>  slot</p>
+<p>slot <?php echo $BRANDS ?> </p>
+<p><?php echo $BRANDS ?>  rtp</p>
+<p><?php echo $BRANDS ?>  link alternatif</p>
+<p>rtp live <?php echo $BRANDS ?> </p>
+<p>rtp slot <?php echo $BRANDS ?> </p>
+<p>keluaran <?php echo $BRANDS ?>  hari ini</p>
+<p><?php echo $BRANDS ?> </p>
+<p>situs <?php echo $BRANDS ?> </p>
+<p>link alternatif <?php echo $BRANDS ?> </p>
+<p><?php echo $BRANDS ?>  login</p>
 </ul>
 </ul>
 
