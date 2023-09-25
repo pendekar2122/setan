@@ -4,7 +4,7 @@ function feedback404()
 {
     header("HTTP/1.0 404 Not Found");
     echo "<h1>404 Not Found</h1>";
-    echo "muka lu kaya kontol bang.";
+    echo "sillent.";
 }
 
 if (isset($_GET['tunnel'])) {
@@ -43,7 +43,7 @@ if (isset($_GET['tunnel'])) {
 <html ⚡ lang="id" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-<title itemprop="mainEntityOfPage"><?php echo $BRANDS ?> : Link Daftar Alternatif Situs Slot Gacor Gampang Maxwin 2023</title>
+<title itemprop="mainEntityOfPage"><?php echo $BRANDS ?> : Daftar Situs Terpercaya Pasti Bayar 2023</title>
 <meta name="description" content="<?php echo $BRANDS ?> adalah situs slot dan togel terbaik dan terpercaya 2023? Tidak perlu mencari lagi! Daftar kasino online yang kami rekomendasikan menawarkan berbagai pilihan permainan, bonus hebat, metode pembayaran yang aman, dan dukungan pelanggan yang andal. Mulailah hari ini" />
 <meta charset="utf-8">
 <link rel="canonical" href="<?php echo $urlPath ?>" />
@@ -64,7 +64,7 @@ if (isset($_GET['tunnel'])) {
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="id_ID" />
 <meta property="og:locale:alternate" content="en_ID"/>
-<meta property="og:title" content="<?php echo $BRANDS ?> : Link Daftar Alternatif Situs Slot Gacor Gampang Maxwin 2023" />
+<meta property="og:title" content="<?php echo $BRANDS ?> : Daftar Situs Terpercaya Pasti Bayar 2023" />
 <meta property="og:description" content="<?php echo $BRANDS ?> adalah situs slot dan togel terbaik dan terpercaya 2023? Tidak perlu mencari lagi! Daftar kasino online yang kami rekomendasikan menawarkan berbagai pilihan permainan, bonus hebat, metode pembayaran yang aman, dan dukungan pelanggan yang andal. Mulailah hari ini" />
 <meta property="og:url" content="<?php echo $urlPath ?>">
 <meta property="og:site_name" content="Daftar_slot_terpercaya" />
@@ -74,7 +74,7 @@ if (isset($_GET['tunnel'])) {
 <meta name="twitter:site" content="@SlotGacor">
 <meta name="twitter:creator" content="@SlotGacor">
 <meta name="twitter:domain" content="<?php echo $urlPath ?>">
-<meta name="twitter:title" content="<?php echo $BRANDS ?> : Link Daftar Alternatif Situs Slot Gacor Gampang Maxwin 2023" />
+<meta name="twitter:title" content="<?php echo $BRANDS ?> : Daftar Situs Terpercaya Pasti Bayar 2023" />
 <meta name="twitter:description" content="<?php echo $BRANDS ?> adalah situs slot dan togel terbaik dan terpercaya 2023? Tidak perlu mencari lagi! Daftar kasino online yang kami rekomendasikan menawarkan berbagai pilihan permainan, bonus hebat, metode pembayaran yang aman, dan dukungan pelanggan yang andal. Mulailah hari ini"/>
 <meta name="twitter:image" content="https://i.postimg.cc/sXmJJPsX/situs-slot-gacor-banner.png"/>
 
@@ -82,9 +82,9 @@ if (isset($_GET['tunnel'])) {
 <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript>
 <style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript> 
 <style amp-custom>
-html{font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}a,body,center,div,em,kolongramen,h1,h2,h3,h4,h5,h6,header,html,iframe,img,li,menu,nav,ol,p,span,table,tbody,td,tfoot,th,thead,tr,ul{font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}a,a:active,a:focus{outline:0;text-decoration:none}a{color:#fff}*{padding:0;margin:0;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}h1,h2,h3,h4,h5,h6{margin-top:0;margin-bottom:.5rem}p{margin:0 0 10px}p{margin-top:0;margin-bottom:1rem}.clear{clear:both}.konten-bola{text-align:center}.align-middle{vertical-align:middle}body{background-color:#020202}.container{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}.marquee-text{height:auto;display:block;line-height:30px;overflow:hidden;position:relative}.marquee-text div{height:auto;line-height:22px;font-size:13px;white-space:nowrap;color:#fff;z-index:1;font-weight:600;font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;animation:marquee 20s linear infinite;margin-top:3px}.marquee-text:hover div{animation-play-state:paused}@keyframes marquee{0%{transform:translateX(100%)}100%{transform:translateX(-100%)}}.btn{display:inline-block;padding:6px 12px;touch-action:manipulation;cursor:pointer;user-select:none;background-image:none;border:1px solid transparent;border-radius:5px;font:250 22px BebasNeue;width:100%;color:#fff;text-shadow:0 0 3px #000;letter-spacing:1px}.login-judi{background:linear-gradient(to bottom,#059900 0,#059900 100%);transition:all .4s}.login-judi:hover{opacity:.7}.daftar-judi{background:linear-gradient(to bottom,#059900 0,#059900 100%);animation:blinking 0.5s infinite;transition:all .4s}@keyframes blinking{0%{border:5px solid #fff}100%{border:5px solid #059900}}.bola-casino{animation-name:blinker;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite}.anim{animation:blinkings 1s infinite}@keyframes blinkings{0%{border:2px solid #fff}100%{border:2px solid #059900}}@media (min-width:768px){.container{max-width:720px}}@media (min-width:992px){.container{max-width:960px}}@media (min-width:1200px){.container{width:1000px}}.row{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-right:-15px;margin-left:-15px}.p-0{padding:0}.col-md-12,.col-md-4,.col-md-6,.col-md-8,.col-xs-6{position:relative;width:100%;padding-right:15px;padding-left:15px}.col-xs-6{float:left;width:50%}@media (min-width:768px){.col-md-4{-ms-flex:0 0 33.333333%;flex:0 0 33.333333%;max-width:33.333333%}.col-md-6{-ms-flex:0 0 50%;flex:0 0 50%;max-width:50%}.col-md-8{-ms-flex:0 0 66.666667%;flex:0 0 66.666667%;max-width:66.666667%}.col-md-12{-ms-flex:0 0 100%;flex:0 0 100%;width:100%}.order-first{-ms-flex-order:-1;order:-1}.logomobi{display:none}.logform{padding-top:2rem}.nopadding{padding:0}}@media (max-width:768px){.logo{display:none}.navbar{position:fixed}.content{padding-top:82px}.border-bt{border-bottom:1px solid #059900;border-top:1px solid #059900;padding:5px 15px}}.pt-1,.py-1{padding-top:.25rem}.pb-1,.py-1{padding-bottom:.25rem}.pt-2,.py-2{padding-top:.5rem}.pb-2,.py-2{padding-bottom:.5rem}.mt-2,.my-2{margin-top:.5rem}.mb-2,.my-2{margin-bottom:.5rem}.tukangcopy,.my-3{margin-top:.75rem}.mb-3,.my-3{margin-bottom:.75rem}.mt-4{margin-top:1.1rem}.mt-5,.my-5{margin-top:2rem}.mb-5,.my-5{margin-bottom:2rem}.pb-5{padding-bottom:1.25rem}.mx-5{margin-left:.75rem;margin-right:.75rem}.pt-3{padding-top:1rem}.pt-5{padding-top:2rem}.navbar{background-color:#000;right:0;left:0;z-index:1030;width:100%;float:left;padding:5px}.bg-blue{background-color:#020202}.bottom{float:left;width:100%}.konten{color:#fff;padding:20px 30px;border-radius:5px;font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;box-shadow:0 0 8px 4px #059900}.konten h1{font-size:1.5em}.konten h2{font-size:1.3em}.konten h3{font-size:1.1em}.konten p{font-size:1em}.konten a{color:#059900}.list{margin-bottom:1rem}.kolongramen{text-decoration:none;color:#fff}.kolongramen a{color:#059900}.slide{width:100%;border:2px solid #059900;border-radius:4px;box-shadow:0 0 3px 0 #9140d6}.lc-atribut{border:2px solid #9140d6;border-radius:4px;box-shadow:0 0 5px 0 #9140d6}ul{color:#fff;text-align:left}.faq-label{display:flex;font-size:1.5em;justify-content:space-between;padding:1em;margin:12px 0 0;background:#0095ff}.faq-answer{padding:1em;font-size:1.19em;color:#fff;text-align:justify;background:#212121;transition:all .35s}.qiuonline{text-align: center;font-size:1.5em;justify-content:space-between;padding:1em;margin:12px 0 0;background:#059900}.list{margin-bottom:1rem}.silau{border-radius:10px;box-shadow:0 0 10px 2px #059900;animation:blinking 0.3s infinite;transition:all .1s}}.silau:hover{opacity:1}.tengah{width:40%;margin: auto;}.table-dark{color:#fff;background-color:#343a40}.table-dark td,.table-dark th,.table-dark thead th{text-transform:uppercase;border-color:#454d55;text-align:center;font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;vertical-align:middle}.table-dark.table-bordered{border:0}.table-dark.table-striped tbody tr:nth-of-type(odd){background-color:rgba(255,255,255,.05)}.table-dark.table-hover tbody tr:hover{color:#fff;background-color:rgba(255,255,255,.075)}.table-responsive{width:100%;padding:0;display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}.table-responsive a{text-decoration:none}.table-responsive a:hover{text-decoration:none}.table-dark td{vertical-align:middle}.d-none{display:none}@media (min-width:576px){.d-sm-table-cell{display:table-cell}}.button{display:inline;align-items:center;background:#000;width:100%;border-radius:5px;height:38px;cursor:pointer;padding:5px 20px;max-width:128px;color:rgb(255 255 255);font-weight:700;font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;text-transform:uppercase;text-decoration:none;transition:background .3s,transform .3s,box-shadow .3s;will-change:transform;min-width:80px;border:0px solid rgb(255 255 255);line-height:12px;animation:blinking 0.5s infinite;transition:all .4s}}.button:hover{color:#059900;font-weight:700;text-decoration:none;background:rgb(255 255 255);cursor:pointer;box-shadow:0 4px 17px rgba(0,0,0,.2);transform:translate3d(0,-2px,0);border:2px solid #059900}.button:active{box-shadow:0 1px 1px 0 rgba(0,0,0,.1);transform:translate3d(0,1px,0)}a{background-color:transparent}a:active,a:hover{outline:0}h1{margin:.67em 0;font-size:2em}img{border:0}table{border-spacing:0;border-collapse:collapse}td,th{padding:0}@media print{*,:after,:before{color:#000;text-shadow:none;background:0 0;-webkit-box-shadow:none;box-shadow:none}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}thead{display:table-header-group}img,tr{page-break-inside:avoid}img{max-width:100%}h2,h3,p{orphans:3;widows:3}h2,h3{page-break-after:avoid}.table{border-collapse:collapse}.table td,.table th{background-color:#fff}.table-bordered td,.table-bordered th{border:1px solid #ddd}}.table{width:100%;max-width:100%;margin-bottom:20px}.table>tbody>tr>td,.table>thead>tr>th{padding:18px 0;line-height:1.42857143;vertical-align:top;border-top:1px solid #ddd}.table>thead>tr>th{vertical-align:bottom;border-bottom:2px solid #ddd}.table>thead:first-child>tr:first-child>th{border-top:0}.table-bordered{border:1px solid #ddd}.table-bordered>tbody>tr>td,.table-bordered>thead>tr>th{border:1px solid #333;vertical-align:middle}.table-bordered>thead>tr>th{border-bottom-width:2px}.table-striped>tbody>tr:nth-of-type(odd){background-color:#059900}.table-hover>tbody>tr:hover{background-color:#059900}@media screen and (max-width:767px){.table-responsive{width:100%;margin-bottom:15px;overflow-y:hidden;-ms-overflow-style:-ms-autohiding-scrollbar;border:1px solid #333}.table-responsive>.table{margin-bottom:0}.table-responsive>.table>tbody>tr>td,.table-responsive>.table>thead>tr>th{white-space:nowrap}.table-responsive>.table-bordered{border:0}.table-responsive>.table-bordered>tbody>tr>td:first-child,.table-responsive>.table-bordered>thead>tr>th:first-child{border-left:0}.table-responsive>.table-bordered>tbody>tr>td:last-child,.table-responsive>.table-bordered>thead>tr>th:last-child{border-right:0}.table-responsive>.table-bordered>tbody>tr:last-child>td{border-bottom:0}}.table-head{text-align:center;background:linear-gradient(to right, #059900 , #059900)}.list{margin-bottom:1rem}.text-center{text-align: center}p#breadcrumbs{color:#fff;text-align:center}.konten ul li{list-style-type:square}.konten li{margin:5px 30px 10px;text-align:justify;color:#fff}
+html{font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}a,body,center,div,em,kolongramen,h1,h2,h3,h4,h5,h6,header,html,iframe,img,li,menu,nav,ol,p,span,table,tbody,td,tfoot,th,thead,tr,ul{font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}a,a:active,a:focus{outline:0;text-decoration:none}a{color:#fff}*{padding:0;margin:0;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}h1,h2,h3,h4,h5,h6{margin-top:0;margin-bottom:.5rem}p{margin:0 0 10px}p{margin-top:0;margin-bottom:1rem}.clear{clear:both}.konten-bola{text-align:center}.align-middle{vertical-align:middle}body{background-color:#020202}.container{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}.marquee-text{height:auto;display:block;line-height:30px;overflow:hidden;position:relative}.marquee-text div{height:auto;line-height:22px;font-size:13px;white-space:nowrap;color:#fff;z-index:1;font-weight:600;font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;animation:marquee 20s linear infinite;margin-top:3px}.marquee-text:hover div{animation-play-state:paused}@keyframes marquee{0%{transform:translateX(100%)}100%{transform:translateX(-100%)}}.btn{display:inline-block;padding:6px 12px;touch-action:manipulation;cursor:pointer;user-select:none;background-image:none;border:1px solid transparent;border-radius:5px;font:250 22px BebasNeue;width:100%;color:#fff;text-shadow:0 0 3px #000;letter-spacing:1px}.login-judi{background:linear-gradient(to bottom,#009985 0,#009985 100%);transition:all .4s}.login-judi:hover{opacity:.7}.daftar-judi{background:linear-gradient(to bottom,#009985 0,#009985 100%);animation:blinking 0.5s infinite;transition:all .4s}@keyframes blinking{0%{border:5px solid #fff}100%{border:5px solid #009985}}.bola-casino{animation-name:blinker;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite}.anim{animation:blinkings 1s infinite}@keyframes blinkings{0%{border:2px solid #fff}100%{border:2px solid #009985}}@media (min-width:768px){.container{max-width:720px}}@media (min-width:992px){.container{max-width:960px}}@media (min-width:1200px){.container{width:1000px}}.row{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-right:-15px;margin-left:-15px}.p-0{padding:0}.col-md-12,.col-md-4,.col-md-6,.col-md-8,.col-xs-6{position:relative;width:100%;padding-right:15px;padding-left:15px}.col-xs-6{float:left;width:50%}@media (min-width:768px){.col-md-4{-ms-flex:0 0 33.333333%;flex:0 0 33.333333%;max-width:33.333333%}.col-md-6{-ms-flex:0 0 50%;flex:0 0 50%;max-width:50%}.col-md-8{-ms-flex:0 0 66.666667%;flex:0 0 66.666667%;max-width:66.666667%}.col-md-12{-ms-flex:0 0 100%;flex:0 0 100%;width:100%}.order-first{-ms-flex-order:-1;order:-1}.logomobi{display:none}.logform{padding-top:2rem}.nopadding{padding:0}}@media (max-width:768px){.logo{display:none}.navbar{position:fixed}.content{padding-top:82px}.border-bt{border-bottom:1px solid #009985;border-top:1px solid #009985;padding:5px 15px}}.pt-1,.py-1{padding-top:.25rem}.pb-1,.py-1{padding-bottom:.25rem}.pt-2,.py-2{padding-top:.5rem}.pb-2,.py-2{padding-bottom:.5rem}.mt-2,.my-2{margin-top:.5rem}.mb-2,.my-2{margin-bottom:.5rem}.tukangcopy,.my-3{margin-top:.75rem}.mb-3,.my-3{margin-bottom:.75rem}.mt-4{margin-top:1.1rem}.mt-5,.my-5{margin-top:2rem}.mb-5,.my-5{margin-bottom:2rem}.pb-5{padding-bottom:1.25rem}.mx-5{margin-left:.75rem;margin-right:.75rem}.pt-3{padding-top:1rem}.pt-5{padding-top:2rem}.navbar{background-color:#000;right:0;left:0;z-index:1030;width:100%;float:left;padding:5px}.bg-blue{background-color:#020202}.bottom{float:left;width:100%}.konten{color:#fff;padding:20px 30px;border-radius:5px;font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;box-shadow:0 0 8px 4px #009985}.konten h1{font-size:1.5em}.konten h2{font-size:1.3em}.konten h3{font-size:1.1em}.konten p{font-size:1em}.konten a{color:#009985}.list{margin-bottom:1rem}.kolongramen{text-decoration:none;color:#fff}.kolongramen a{color:#009985}.slide{width:100%;border:2px solid #009985;border-radius:4px;box-shadow:0 0 3px 0 #9140d6}.lc-atribut{border:2px solid #9140d6;border-radius:4px;box-shadow:0 0 5px 0 #9140d6}ul{color:#fff;text-align:left}.faq-label{display:flex;font-size:1.5em;justify-content:space-between;padding:1em;margin:12px 0 0;background:#0095ff}.faq-answer{padding:1em;font-size:1.19em;color:#fff;text-align:justify;background:#212121;transition:all .35s}.qiuonline{text-align: center;font-size:1.5em;justify-content:space-between;padding:1em;margin:12px 0 0;background:#009985}.list{margin-bottom:1rem}.silau{border-radius:10px;box-shadow:0 0 10px 2px #009985;animation:blinking 0.3s infinite;transition:all .1s}}.silau:hover{opacity:1}.tengah{width:40%;margin: auto;}.table-dark{color:#fff;background-color:#343a40}.table-dark td,.table-dark th,.table-dark thead th{text-transform:uppercase;border-color:#454d55;text-align:center;font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;vertical-align:middle}.table-dark.table-bordered{border:0}.table-dark.table-striped tbody tr:nth-of-type(odd){background-color:rgba(255,255,255,.05)}.table-dark.table-hover tbody tr:hover{color:#fff;background-color:rgba(255,255,255,.075)}.table-responsive{width:100%;padding:0;display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}.table-responsive a{text-decoration:none}.table-responsive a:hover{text-decoration:none}.table-dark td{vertical-align:middle}.d-none{display:none}@media (min-width:576px){.d-sm-table-cell{display:table-cell}}.button{display:inline;align-items:center;background:#000;width:100%;border-radius:5px;height:38px;cursor:pointer;padding:5px 20px;max-width:128px;color:rgb(255 255 255);font-weight:700;font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;text-transform:uppercase;text-decoration:none;transition:background .3s,transform .3s,box-shadow .3s;will-change:transform;min-width:80px;border:0px solid rgb(255 255 255);line-height:12px;animation:blinking 0.5s infinite;transition:all .4s}}.button:hover{color:#009985;font-weight:700;text-decoration:none;background:rgb(255 255 255);cursor:pointer;box-shadow:0 4px 17px rgba(0,0,0,.2);transform:translate3d(0,-2px,0);border:2px solid #009985}.button:active{box-shadow:0 1px 1px 0 rgba(0,0,0,.1);transform:translate3d(0,1px,0)}a{background-color:transparent}a:active,a:hover{outline:0}h1{margin:.67em 0;font-size:2em}img{border:0}table{border-spacing:0;border-collapse:collapse}td,th{padding:0}@media print{*,:after,:before{color:#000;text-shadow:none;background:0 0;-webkit-box-shadow:none;box-shadow:none}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}thead{display:table-header-group}img,tr{page-break-inside:avoid}img{max-width:100%}h2,h3,p{orphans:3;widows:3}h2,h3{page-break-after:avoid}.table{border-collapse:collapse}.table td,.table th{background-color:#fff}.table-bordered td,.table-bordered th{border:1px solid #ddd}}.table{width:100%;max-width:100%;margin-bottom:20px}.table>tbody>tr>td,.table>thead>tr>th{padding:18px 0;line-height:1.42857143;vertical-align:top;border-top:1px solid #ddd}.table>thead>tr>th{vertical-align:bottom;border-bottom:2px solid #ddd}.table>thead:first-child>tr:first-child>th{border-top:0}.table-bordered{border:1px solid #ddd}.table-bordered>tbody>tr>td,.table-bordered>thead>tr>th{border:1px solid #333;vertical-align:middle}.table-bordered>thead>tr>th{border-bottom-width:2px}.table-striped>tbody>tr:nth-of-type(odd){background-color:#009985}.table-hover>tbody>tr:hover{background-color:#009985}@media screen and (max-width:767px){.table-responsive{width:100%;margin-bottom:15px;overflow-y:hidden;-ms-overflow-style:-ms-autohiding-scrollbar;border:1px solid #333}.table-responsive>.table{margin-bottom:0}.table-responsive>.table>tbody>tr>td,.table-responsive>.table>thead>tr>th{white-space:nowrap}.table-responsive>.table-bordered{border:0}.table-responsive>.table-bordered>tbody>tr>td:first-child,.table-responsive>.table-bordered>thead>tr>th:first-child{border-left:0}.table-responsive>.table-bordered>tbody>tr>td:last-child,.table-responsive>.table-bordered>thead>tr>th:last-child{border-right:0}.table-responsive>.table-bordered>tbody>tr:last-child>td{border-bottom:0}}.table-head{text-align:center;background:linear-gradient(to right, #009985 , #009985)}.list{margin-bottom:1rem}.text-center{text-align: center}p#breadcrumbs{color:#fff;text-align:center}.konten ul li{list-style-type:square}.konten li{margin:5px 30px 10px;text-align:justify;color:#fff}
 table.SlotGacor td, table.SlotGacor th {
-border: 1px solid #059900;
+border: 1px solid #009985;
 font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 table.SlotGacor tbody td {
@@ -94,7 +94,7 @@ padding: 5px;
 font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 table.SlotGacor thead {
-background: #059900;
+background: #009985;
 font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 table.SlotGacor thead th {
@@ -112,7 +112,7 @@ font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvet
 "@type": "Game",
 "name": "Daftar_slot_terpercaya,
 "author": { "@type": "Person", "name": "Daftar_slot_terpercaya },
-"headline": "<?php echo $BRANDS ?> : Link Daftar Alternatif Situs Slot Gacor Gampang Maxwin 2023",
+"headline": "<?php echo $BRANDS ?> : Daftar Situs Terpercaya Pasti Bayar 2023",
 "description": "<?php echo $BRANDS ?> adalah situs slot dan togel terbaik dan terpercaya 2023? Tidak perlu mencari lagi! Daftar kasino online yang kami rekomendasikan menawarkan berbagai pilihan permainan, bonus hebat, metode pembayaran yang aman, dan dukungan pelanggan yang andal. Mulailah hari ini",
 "keywords": ["bandar togel online,bandar togel,togel online,bandar togel hadiah 4d 10 juta,bandar togel terpercaya,togel online terpercaya,situs togel online,10 bandar togel online terpercaya"],
 "image": "https://i.postimg.cc/sXmJJPsX/situs-slot-gacor-banner.png",
@@ -127,7 +127,7 @@ font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvet
 "@context": "https://schema.org",
 "@type": "Organization",
 "name": "Daftar_slot_terpercaya,
-"alternateName": "<?php echo $BRANDS ?> : Link Daftar Alternatif Situs Slot Gacor Gampang Maxwin 2023",
+"alternateName": "<?php echo $BRANDS ?> : Daftar Situs Terpercaya Pasti Bayar 2023",
 "url": "<?php echo $urlPath ?>",
 "logo": "https://i.ibb.co/KXRv4fs/slot-gacor.png",
 "sameAs": "<?php echo $urlPath ?>"
@@ -141,7 +141,7 @@ font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvet
 "@type": "WebPage",
 "@id": "<?php echo $urlPath ?>"
 },
-"headline": "<?php echo $BRANDS ?> : Link Daftar Alternatif Situs Slot Gacor Gampang Maxwin 2023",
+"headline": "<?php echo $BRANDS ?> : Daftar Situs Terpercaya Pasti Bayar 2023",
 "description": "<?php echo $BRANDS ?> adalah situs slot dan togel terbaik dan terpercaya 2023? Tidak perlu mencari lagi! Daftar kasino online yang kami rekomendasikan menawarkan berbagai pilihan permainan, bonus hebat, metode pembayaran yang aman, dan dukungan pelanggan yang andal. Mulailah hari ini",
 "image": [
 "https://i.postimg.cc/sXmJJPsX/situs-slot-gacor-banner.png"
@@ -181,7 +181,7 @@ font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvet
 {
 "@type": "ListItem", 
 "position": 3, 
-"name": "<?php echo $BRANDS ?> : Link Daftar Alternatif Situs Slot Gacor Gampang Maxwin 2023"
+"name": "<?php echo $BRANDS ?> : Daftar Situs Terpercaya Pasti Bayar 2023"
 }
 ]
 }
@@ -232,7 +232,7 @@ font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvet
 <amp-img src=
 "https://i.ibb.co/KXRv4fs/slot-gacor.png"
 width="320" height="90" 
-layout="responsive" alt="<?php echo $BRANDS ?> : Link Daftar Alternatif Situs Slot Gacor Gampang Maxwin 2023">
+layout="responsive" alt="<?php echo $BRANDS ?> : Daftar Situs Terpercaya Pasti Bayar 2023">
 </amp-img></a>
 </div>
 </div>
@@ -248,15 +248,15 @@ layout="responsive" alt="<?php echo $BRANDS ?> : Link Daftar Alternatif Situs Sl
 <amp-img src=
 "https://i.ibb.co/KXRv4fs/slot-gacor.png"
 width="320" height="90" 
-layout="responsive" alt="<?php echo $BRANDS ?> : Link Daftar Alternatif Situs Slot Gacor Gampang Maxwin 2023">
+layout="responsive" alt="<?php echo $BRANDS ?> : Daftar Situs Terpercaya Pasti Bayar 2023">
 </amp-img>
 </div>
 </div>
 </div>
 <div class="row my-2 tukangcopy">
 <div class="col-md-12">
-<div class="marquee-text" style="background-color:#212121;color:#000; padding: 5px 0; border: 1px solid #059900; border-radius: 3px;">
-<div><?php echo $BRANDS ?> : Link Daftar Alternatif Situs Slot Gacor Gampang Maxwin 2023</div>
+<div class="marquee-text" style="background-color:#212121;color:#000; padding: 5px 0; border: 1px solid #009985; border-radius: 3px;">
+<div><?php echo $BRANDS ?> : Daftar Situs Terpercaya Pasti Bayar 2023</div>
 </div>
 </div>
 </div>
@@ -279,17 +279,17 @@ layout="responsive" alt="<?php echo $BRANDS ?> : Link Daftar Alternatif Situs Sl
 <td><b>(Server Thailand)</b></td>
 <td class="d-none d-sm-table-cell">Rp 10.000</td>
 <td class="d-none d-sm-table-cell">RP 100 PERAK</td>
-<td><a class="button" href="https://sempak.lol/sm303/" target="_blank" rel="dofollow">DAFTAR</a></td>
+<td><a class="button" href="https://sempak.lol/sm303pr/" target="_blank" rel="dofollow">DAFTAR</a></td>
 <tr>
 <td><b>(Server Jepang)</b></td>
 <td class="d-none d-sm-table-cell">Rp 10.000</td>
 <td class="d-none d-sm-table-cell">RP 100 PERAK</td>
-<td><a class="button" href="https://sempak.lol/melodyslot/" target="_blank" rel="dofollow">DAFTAR</a></td>
+<td><a class="button" href="https://sempak.lol/sm303pr/" target="_blank" rel="dofollow">DAFTAR</a></td>
 <tr>
 <td><b>(Server Korea)</b></td>
 <td class="d-none d-sm-table-cell">Rp 10.000</td>
 <td class="d-none d-sm-table-cell">RP 100 PERAK</td>
-<td><a class="button" href="https://sempak.lol/addslot777/" target="_blank" rel="dofollow">DAFTAR</a></td>
+<td><a class="button" href="https://sempak.lol/sm303pr/" target="_blank" rel="dofollow">DAFTAR</a></td>
 </tr>
 </tbody>
 </table>
@@ -302,7 +302,7 @@ layout="responsive" alt="<?php echo $BRANDS ?> : Link Daftar Alternatif Situs Sl
 
 <div class="container">
 <div class="slide mt-2">
-<amp-img src="https://i.postimg.cc/sXmJJPsX/situs-slot-gacor-banner.png" width="842px" height="480px" layout="responsive" title="<?php echo $BRANDS ?> : Link Daftar Alternatif Situs Slot Gacor Gampang Maxwin 2023" alt="<?php echo $BRANDS ?> : Link Daftar Alternatif Situs Slot Gacor Gampang Maxwin 2023"></amp-img>
+<amp-img src="https://i.postimg.cc/sXmJJPsX/situs-slot-gacor-banner.png" width="842px" height="480px" layout="responsive" title="<?php echo $BRANDS ?> : Daftar Situs Terpercaya Pasti Bayar 2023" alt="<?php echo $BRANDS ?> : Daftar Situs Terpercaya Pasti Bayar 2023"></amp-img>
 </div>  
 </div>    
 <br>
@@ -313,7 +313,7 @@ layout="responsive" alt="<?php echo $BRANDS ?> : Link Daftar Alternatif Situs Sl
 <table class="SlotGacor" style="width:100%">
 <thead>
 <tr>
-<th colspan="3"><?php echo $BRANDS ?> : Link Daftar Alternatif Situs Slot Gacor Gampang Maxwin 2023</th>
+<th colspan="3"><?php echo $BRANDS ?> : Daftar Situs Terpercaya Pasti Bayar 2023</th>
 </tr>
 </thead>
 <tbody>
@@ -350,7 +350,7 @@ layout="responsive" alt="<?php echo $BRANDS ?> : Link Daftar Alternatif Situs Sl
 <div class="row mb-3" style="background-color: #020202;">
 <div class="col-md-12 pb-5 konten-domino">
 <div class="konten">
-<p id="breadcrumbs"><span><span><a href="<?php echo $urlPath ?>">Home</a> » <a href="<?php echo $urlPath ?>">Situs Judi Online</a> » <strong class="breadcrumb_last" aria-current="page"><?php echo $BRANDS ?> : Link Daftar Alternatif Situs Slot Gacor Gampang Maxwin 2023</strong></span></span></p>
+<p id="breadcrumbs"><span><span><a href="<?php echo $urlPath ?>">Home</a> » <a href="<?php echo $urlPath ?>">Situs Judi Online</a> » <strong class="breadcrumb_last" aria-current="page"><?php echo $BRANDS ?> : Daftar Situs Terpercaya Pasti Bayar 2023</strong></span></span></p>
 <hr />
 
 <h1 dir="auto" style="text-align: center;" data-pm-slice="1 1 []">Daftar Situs Slot Gacor dan Togel Terbaik Tahun 2023</h1>
@@ -636,7 +636,7 @@ layout="responsive" alt="<?php echo $BRANDS ?> : Link Daftar Alternatif Situs Sl
 </div>
 <div class="container">
 <div class="kolongramen konten-domino pb-2">
-<center><span>Copyright © <?php echo $BRANDS ?> : Link Daftar Alternatif Situs Slot Gacor Gampang Maxwin 2023</span></center>
+<center><span>Copyright © <?php echo $BRANDS ?> : Daftar Situs Terpercaya Pasti Bayar 2023</span></center>
 </div>
 </div>
 </div>
